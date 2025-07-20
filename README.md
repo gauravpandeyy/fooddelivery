@@ -31,3 +31,23 @@ cd muchmate
 
 
 Website -https://66e6967e7666324fd20d2177--flourishing-cascaron-388897.netlify.app
+
+## Install dependencies
+npm install
+
+## Run the development server
+npm run dev
+
+🎯 Future Enhancements
+Integrate backend APIs for live data
+
+User authentication
+
+Order tracking and history
+
+Ratings and reviews for restaurants
+
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the project and submit a pull request.
